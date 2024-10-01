@@ -21,7 +21,3 @@ I'm a computer engineering student from METU, Turkey.
 ## 📫 Get in Touch
 - LinkedIn: [Elif Lale](https://www.linkedin.com/in/elif-lale-311021197/)
 - Email: [lale.elif@metu.edu.tr](mailto:lale.elif@metu.edu.tr)
-
-
-<!-- GitHub Activity Graph -->
-[![Elif Lali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliflali&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
