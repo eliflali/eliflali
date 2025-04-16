@@ -5,8 +5,8 @@ Heluuuuu,
 I'm a computer engineering student from METU, Turkey.
 
 ## 🛠️ Technologies & Tools
-- Languages: **Python**, **JavaScript**, **C/C#/C++**
-- Frameworks: **React**, **Django**
+- Languages: **Python**, **JavaScript**, **TypeScript**, **C/C#/C++**
+- Frameworks: **React**, **React Native**, **Next.js**, **Node.js**, **Django**
 - Tools: **Git**, **Docker**, **Linux**
 
 ## 📈 GitHub Stats
