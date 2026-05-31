@@ -1,4 +1,4 @@
-# Elif Lale
+# Elif Lale Kurtnazar
 
 Heluuuuu,
 
@@ -14,7 +14,7 @@ I'm a computer science masters student from TU Berlin.
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliflali&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Elif Lali's GitHub Stats"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=eliflali&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Elif Lali's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliflali&theme=dark&hide_border=false" alt="Elif Lali's GitHub Streak Stats"/>
   <br/>
