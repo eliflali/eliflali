@@ -25,18 +25,18 @@ I'm a computer science masters student from TU Berlin.
 
 <p align="center">
   <!-- Ana İstatistik Kartı -->
-  <img src="https://github-readme-stats-custom-senin-username.vercel.app/api/stats?username=eliflali" alt="Elif's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-custom-lali.vercel.app/api/stats?username=eliflali" alt="Elif's GitHub Stats" width="48%"/>
   
   <!-- En Çok Kullanılan Diller Kartı -->
-  <img src="https://github-readme-stats-custom-senin-username.vercel.app/api/top-langs?username=eliflali" alt="Elif's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-custom-lali.vercel.app/api/top-langs?username=eliflali" alt="Elif's Top Languages" width="48%"/>
 </p>
 
 <p align="center">
   <!-- Üretken Saatler Analitiği -->
-  <img src="https://github-readme-stats-custom-senin-username.vercel.app/api/productive-hours?username=eliflali" alt="Elif's Productive Hours" width="48%"/>
+  <img src="https://github-readme-stats-custom-lali.vercel.app/api/productive-hours?username=eliflali" alt="Elif's Productive Hours" width="48%"/>
   
   <!-- Canlı Proje Durumu Badges -->
-  <img src="https://github-readme-stats-custom-senin-username.vercel.app/api/project-status?username=eliflali" alt="Project Live Status" width="48%"/>
+  <img src="https://github-readme-stats-custom-lali.vercel.app/api/project-status?username=eliflali" alt="Project Live Status" width="48%"/>
 </p>
 
 ## 📫 Get in Touch
