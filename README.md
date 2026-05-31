@@ -2,12 +2,15 @@
 
 Heluuuuu,
 
-I'm a computer engineering student from METU, Turkey.
+I'm a computer science masters student from TU Berlin.
 
 ## 🛠️ Technologies & Tools
-- Languages: **Python**, **JavaScript**, **TypeScript**, **C/C#/C++**
-- Frameworks: **React**, **React Native**, **Next.js**, **Node.js**, **Django**
-- Tools: **Git**, **Docker**, **Linux**
+
+- **Languages:** Python, TypeScript, JavaScript, C#, C++, C
+- **Frontend & Mobile:** React, React Native (CLI & Expo), Next.js (SSR), iOS & Android Deployment, HTML5/CSS3
+- **Backend & Databases:** Node.js, Django, REST APIs, Microservices, PostgreSQL, SQL, Supabase, Firebase, Authentication
+- **AI & Computer Vision:** TensorFlow, OpenCV, Deep Learning, Vector Databases, Semantic Search
+- **Tools & Infrastructure:** Git, Docker, Linux, ROS, Google Cloud Functions, Embedded Hardware (Jetson Nano, Raspberry Pi 4), Lemon Squeezy (Payment Integration)
 
 ## 📈 GitHub Stats
 <div align="center">
@@ -20,4 +23,4 @@ I'm a computer engineering student from METU, Turkey.
 
 ## 📫 Get in Touch
 - LinkedIn: [Elif Lale](https://www.linkedin.com/in/elif-lale-311021197/)
-- Email: [lale.elif@metu.edu.tr](mailto:lale.elif@metu.edu.tr)
+- Email: [eliflale871@gmail.com](mailto:eliflale871@gmail.com)
