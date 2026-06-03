@@ -12,15 +12,6 @@ I'm a computer science masters student from TU Berlin.
 - **AI & Computer Vision:** TensorFlow, OpenCV, Deep Learning, Vector Databases, Semantic Search
 - **Tools & Infrastructure:** Git, Docker, Linux, ROS, Google Cloud Functions, Embedded Hardware (Jetson Nano, Raspberry Pi 4), Lemon Squeezy (Payment Integration)
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra.dev/api?username=eliflali&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Elif Lali's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliflali&theme=dark&hide_border=false" alt="Elif Lali's GitHub Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliflali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Elif Lali's Top Languages"/>
-</div>
-
 ## 📊 GitHub Analytics & Projects
 
 
@@ -34,10 +25,7 @@ I'm a computer science masters student from TU Berlin.
 
 <p align="center">
   <!-- Üretken Saatler Analitiği -->
-  <img src="https://github-readme-stats-custom-lali.vercel.app/api/productive-hours?username=eliflali" alt="Elif's Productive Hours" width="48%"/>
-  
-  <!-- Canlı Proje Durumu Badges -->
-  <img src="https://github-readme-stats-custom-lali.vercel.app/api/project-status?username=eliflali" alt="Project Live Status" width="48%"/>
+  <img src="https://github-readme-stats-custom-lali.vercel.app/api/productive-hours?username=eliflali" alt="Elif's Productive Hours" width="98%"/>
 </p>
 
 ## 📫 Get in Touch
