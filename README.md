@@ -25,7 +25,7 @@ I'm a computer science masters student from TU Berlin.
 
 <p align="center">
   <!-- Üretken Saatler Analitiği -->
-  <img src="https://github-readme-stats-custom-lali.vercel.app/api/productive-hours?username=eliflali" alt="Elif's Productive Hours" width="98%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliflali&theme=dark&hide_border=false" alt="Elif Lali's GitHub Streak Stats"/>
 </p>
 
 ## 📫 Get in Touch
